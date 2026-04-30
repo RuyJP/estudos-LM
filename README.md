@@ -28,9 +28,9 @@ Como posso treinar minha lógica de programação na prática?
 
 # Miniguia:
 
-Resumos Estruturados do Assunto
+# Resumos Estruturados do Assunto
 
-A Essência: Lógica vs. Algoritmo
+# A Essência: Lógica vs. Algoritmo
 
 Lógica de Programação: É definida como a organização do pensamento e o "jeito certo" de estruturar instruções para que um computador execute uma tarefa.
 
@@ -63,7 +63,7 @@ Desempenho (Big O): A eficiência de um algoritmo é medida pela Notação Big O
 Algoritmos como a Busca Binária (O(logn)) são exponencialmente mais rápidos que a Busca Linear (O(n)) em grandes listas.
 
 --------------------------------------------------------------------------------
-Glossário de Principais Conceitos
+# Glossário de Principais Conceitos
 
 Big O: Notação matemática usada para classificar e comparar a performance/escalabilidade de algoritmos.
 
@@ -84,7 +84,7 @@ String: Nome técnico dado a dados do tipo texto na programação.
 Teste de Mesa: Processo manual de seguir os passos de um algoritmo no papel para verificar se a lógica está correta antes da execução real.
 
 --------------------------------------------------------------------------------
-Prompts Reutilizáveis para Revisão
+# Prompts Reutilizáveis para Revisão
 
 "Explique a diferença entre um loop for e um loop while usando exemplos do cotidiano, como lavar louça ou dar passos, focando em quando usar cada um."
 
