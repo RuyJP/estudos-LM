@@ -94,4 +94,4 @@ Teste de Mesa: Processo manual de seguir os passos de um algoritmo no papel para
 
 "Compare a eficiência da busca linear e da busca binária para encontrar um nome em uma lista de 1 milhão de registros. Explique o conceito de Big O envolvido na diferença de performance."
 
-"Crie um exercício de fixação onde eu deva identificar se dados como '25.5', 'True', '10' e 'Nome' são String, Int, Float ou Boolean e explique por que a conversão de tipos é necessária no comando
+"Crie um exercício de fixação onde eu deva identificar se dados como '25.5', 'True', '10' e 'Nome' são String, Int, Float ou Boolean e explique por que a conversão de tipos é necessária no comando."
